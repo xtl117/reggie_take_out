@@ -21,6 +21,7 @@ public class ReggieApplication {
         System.out.println("修改了一次代码");
         System.out.println("修改第二次代码");
         System.out.println("修改了第三.1次代码");
+        System.out.println("哈哈哈");
 
     }
 }
