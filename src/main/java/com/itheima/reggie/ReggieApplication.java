@@ -19,6 +19,7 @@ public class ReggieApplication {
         SpringApplication.run(ReggieApplication.class,args);
         log.info("项目启动成功");
         System.out.println("修改了一次代码");
+        System.out.println("修改第二次代码");
 
     }
 }
